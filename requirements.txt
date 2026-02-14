@@ -1,0 +1,8 @@
+azure-identity
+azure-mgmt-compute
+azure-mgmt-resource
+azure-mgmt-monitor
+azure-mgmt-network
+azure-mgmt-costmanagement
+pandas
+pyyaml
